@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "rajanrx-skills",
+  "description": "Writing, explaining, diagramming and self-review skills for coding agents",
+  "owner": {
+    "name": "Rajan Rauniyar",
+    "url": "https://github.com/rajanrx"
+  },
+  "plugins": [
+    {
+      "name": "rajanrx",
+      "source": "./",
+      "description": "Seven skills: discover, simple-writer, c4-diagrams, tdd, comment-discipline, author-preflight and spec-writing",
+      "version": "1.0.0",
+      "author": {
+        "name": "Rajan Rauniyar"
+      },
+      "category": "productivity",
+      "keywords": ["skills", "writing", "documentation", "testing", "architecture", "review"]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "rajanrx",
+  "version": "1.0.0",
+  "description": "Writing, explaining, diagramming and self-review skills for coding agents",
+  "author": {
+    "name": "Rajan Rauniyar",
+    "url": "https://github.com/rajanrx"
+  },
+  "homepage": "https://github.com/rajanrx/skills#readme",
+  "repository": "https://github.com/rajanrx/skills",
+  "license": "MIT",
+  "keywords": ["skills", "writing", "documentation", "testing", "architecture", "review"]
+}
