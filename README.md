@@ -82,6 +82,8 @@ Make each correction stick.
 
 [`ponytail`](https://github.com/DietrichGebert/ponytail) by Dietrich Gebert (MIT) keeps an agent's code minimal: question whether the code needs to exist, reuse what is already there, prefer the standard library, and write the smallest change that works. It is not bundled here; install it from its own repository.
 
+[`context-mode`](https://github.com/mksglu/context-mode) by Mert Koseoğlu (Elastic License 2.0) keeps large tool output out of the agent's context window. It runs commands in a sandbox, indexes the output for search, and restores session state after the context is compacted, so long sessions with these skills stay within budget. It is a Claude Code plugin with an MCP server; install it from its own repository.
+
 ## Licence
 
 MIT. See [LICENSE](LICENSE).
