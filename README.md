@@ -78,6 +78,10 @@ Make each correction stick.
 
 `discover` uses `simple-writer` when both are installed, and `simple-writer` defers to `spec-writing` for governance documents.
 
+## Pairs well with
+
+[`ponytail`](https://github.com/DietrichGebert/ponytail) by Dietrich Gebert (MIT) keeps an agent's code minimal: question whether the code needs to exist, reuse what is already there, prefer the standard library, and write the smallest change that works. It is not bundled here; install it from its own repository.
+
 ## Licence
 
 MIT. See [LICENSE](LICENSE).
