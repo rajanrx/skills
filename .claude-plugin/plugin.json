@@ -1,7 +1,7 @@
 {
   "name": "rajanrx",
-  "version": "1.0.0",
-  "description": "Writing, explaining, diagramming and self-review skills for coding agents",
+  "version": "1.1.0",
+  "description": "Writing, explaining, diagramming, self-review and learning skills for coding agents",
   "author": {
     "name": "Rajan Rauniyar",
     "url": "https://github.com/rajanrx"
