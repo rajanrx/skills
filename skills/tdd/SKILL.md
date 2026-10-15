@@ -1,6 +1,6 @@
 ---
 name: tdd
-description: Write tests before production code, in TWO passes — a generator pass that writes them and a separate critic pass that tries to break them with mutations. Use when starting any change with testable behaviour, when asked to "write tests first", or after a review finding that needs a test to close it. The critic pass is the point: tests that pass with the fix reverted are common and invisible.
+description: "Write tests before production code, in TWO passes — a generator pass that writes them and a separate critic pass that tries to break them with mutations. Use when starting any change with testable behaviour, when asked to \"write tests first\", or after a review finding that needs a test to close it. The critic pass is the point: tests that pass with the fix reverted are common and invisible."
 version: 1.0.0
 ---
 
